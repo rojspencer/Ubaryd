@@ -1,3 +1,7 @@
+_Forked from https://github.com/Donearm/Ubaryd_
+
+_Modified to work with vim plugin managers_
+
 #Ubaryd
 
 A color scheme for Vim with warm, Mediterranean-like, colours. Still a very much work in progress project,
